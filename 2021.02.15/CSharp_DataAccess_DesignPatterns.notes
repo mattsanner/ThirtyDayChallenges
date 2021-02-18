@@ -1,3 +1,6 @@
 Notes for C# Design Patterns: Data Access Patterns
 https://app.pluralsight.com/course-player?clipId=bad9041f-490a-489a-abf0-596762c86b0d
 - 2021.02.16 - Reviewing Repository pattern, Unit of Work Pattern
+- 2021.02.17 - Lazy Load Pattern:
+  - Lazy initialization
+  - Value Holder
