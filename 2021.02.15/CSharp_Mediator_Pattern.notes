@@ -1,0 +1,6 @@
+- 2021.02.18 - Mediator Pattern
+  - Why use it?
+    - Encapsulates ho objects interact
+    - Promotes loose coupling between objects
+    - Avoids having objects refer directly to each other
+    - Example - chat rooms mediating messages between different users
