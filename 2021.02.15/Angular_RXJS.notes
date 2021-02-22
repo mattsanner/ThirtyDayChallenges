@@ -1,2 +1,9 @@
 2021.02.19 - RxJS Terms and Syntax review, Combining Stream
 2021.02.20 - Caching Observables
+2021.02.21 - Higher-order Mapping Operators
+  - ConcatMap - processes observable one-by-one, and emits the array of results
+    - Good for processing items in sequence, ie., get ids then use the ids to fetch data.
+  - MergeMap - processes multiple observables in parallel in unspecified order
+  - SwitchMap - transform operator, processes api calls as they complete, switching when a new observable value is provided
+    - Good for type ahead or auto completion
+    - Selection from lists
