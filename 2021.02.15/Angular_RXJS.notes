@@ -7,3 +7,6 @@
   - SwitchMap - transform operator, processes api calls as they complete, switching when a new observable value is provided
     - Good for type ahead or auto completion
     - Selection from lists
+2021.02.23 - Combining All The Streams
+  - "Get it all" or "Just in time"
+  - New concept of using a vm$ observable to combine multiple required responses into a common object that can be resolve via "| async" 
