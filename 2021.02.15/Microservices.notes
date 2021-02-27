@@ -1,3 +1,19 @@
 - Checked out https://app.pluralsight.com/course-player?clipId=1fe3f21b-2f65-4aa7-81df-0b863ff6c91c
     - Microservices: The Big Picture
     - "Meh" overall, not a great fit for how WS does things, but certain videos could be valuable
+- ASP.NET Core Microservices: Getting Started
+  - Removed "Getting Started" Microservices path, this course touches on the same concepts
+  - 2. "How to Create a Microservice"
+    - Great concept overview and tooling recommendations that align well with how we do Microservices at WS and ATG
+    - Messaging sections (Sending, receiving, not how we do things but good conceptually)
+- Microservices Communication in ASP.NET Core
+  - 3.Module Introduction through 3.Demo: Publishing the API Using... 
+    - relevant, but only if associate needs more explanation after watching "ASP.NET Core Microservices: Getting Started"
+    - More gRPC content, not applicable to WS currently
+  - 4.Setting up Asynchronous Comm. between ASP.NET Core Microservices
+    - Async Comm and Bus for Comm. class will be redundant with prior class.
+    - Not currently relevant, but good concepts to keep in mind for future feature work:
+      - Working in the Background
+      - Polling a service
+      - Solving the eventual consistency problem
+      - Adding Integration Events
