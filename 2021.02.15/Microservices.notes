@@ -17,3 +17,8 @@
       - Polling a service
       - Solving the eventual consistency problem
       - Adding Integration Events
+- 5. Making Microservices More Resilient
+  - Understanding the Possible Issues 
+  - The rest will be helpful to be aware of, not used at WS yet.
+- Accessing a Microservices Infra
+  - Likely not relevant to our work at WS - infra is managed by another team.
