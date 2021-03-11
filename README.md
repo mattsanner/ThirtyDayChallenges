@@ -6,3 +6,4 @@ Goals: Solidify textbooks knowledge of C# and collect notes on what courses are 
 [x] Project-relevant path assessed.
 
 - 2021.03.08 - Forcing commit from correct account.
+- 2021.03.10 - Angular service/store class work.
