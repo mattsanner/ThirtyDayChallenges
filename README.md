@@ -7,3 +7,4 @@ Goals: Solidify textbooks knowledge of C# and collect notes on what courses are 
 
 - 2021.03.08 - Forcing commit from correct account.
 - 2021.03.10 - Angular service/store class work.
+- 2021.03.11 - Postgres scripting
